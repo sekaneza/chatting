@@ -1,0 +1,87 @@
+/* CSS Document */
+/* CSS Document */
+body {
+margin: 0;
+	padding: 0;
+
+  background: rgb(255,255,255);
+  background:#FFFFFF;
+  font-family: 'Trebuchet MS', Arial, sans-serif;
+  color:;
+  /*border:5px solid #003399;*/
+  /*width: 940px*/
+ margin:0px 0px 10px 0px;
+ /* background:url(images/back8.jpg)no-repeat;
+  /*background:url(images/back3.jpg)no-repeat; */
+}
+#logo12 {
+width: 911px;
+margin:auto;
+/*width:903px;*/
+height:90px;
+/*margin:50px 0px 0px 219px;*/
+
+border:1px solid #330033;
+/*background:#333399;*/
+}
+#accounts
+{
+font-size:12px;
+font-style:oblique;
+background:#333333;
+height:38px
+
+}
+
+#page_page
+{
+  width: 800px ;
+  margin:0 auto;
+  padding:0px;
+  /*background:#006666;*/
+  background:#FFFFFF;
+  /*border:1px solid #0000FF;*/
+  height:auto;
+ } 
+#page1 {
+ width: 800px ;
+  margin:0 auto;
+  padding:0px;
+  /*background:#006666;*/
+  background:#006699;
+  /*border:1px solid #0000FF;*/
+  height:50px;
+}
+#page2 {
+ width: 800px ;
+  margin:0 auto;
+  padding:0px;
+  /*background:#006666;*/
+  background:#006699;
+ /* border-top:1px dotted #00CCFF;*/
+  height:50px;
+  margin-top:20px;
+}
+#input { width:150px; margin-left:70px;height:22px;border:1px solid #999999; 
+box-shadow:2px -2px 2px #FFFFF}
+#input:focus { width:300px; margin-left:70px;  height:22px; border:1px solid #999999; box-shadow:0px 0px 8px 0px; -moz-box-shadow:0px 0px 8px 0px #FFFFFF; -webkit-box-shadow:0px 0px 8px 0px #FFFFFF;
+}
+label_l {width:140px; height:24px; margin-top:50px;}
+#submit {width:150px; height:24px; background:#FFFFFF; color:#003366; border:1px solid #999999;
+box-shadow:0px 0px 8px 0px; -moz-box-shadow:0px 0px 8px 0px #FFFFFF; -webkit-box-shadow:0px 0px 8px 0px #FFFFFF;}
+
+#submit:hover {width:150px; height:24px; background:#009933; color:#FFFFFF; border:1px solid #FFFFFF; font-size:14px;}
+#submit2 {width:490px; height:25px; background:#006699; color:#FFFFFF;}
+#submit2:hover {width:490px; height:25px; background:#003399; color:#FFFFFF; font-size:14px;
+box-shadow:2px -2px 2px #FFFFFF; -moz-box-shadow:2px -2px 2px -2px #FFFFFF; -webkit-box-shadow:2px -2px 2px #FFFFFF;}
+
+
+.line {width:490px; padding:0; margin:0; height:25px;  background:#009966;}
+#create
+{
+background:#00FF33;
+font-size:400px;
+background-color:#00FFFF;
+}
+.img_create_new {margin-left:100px;}
+.h1 { font-family: 'Trebuchet MS', Arial, sans-serif; font-size:18px; color:#FFFFFF; margin-left:20px;}
